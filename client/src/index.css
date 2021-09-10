@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap");
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  /* background-color: #fafafa; */
+}
+a {
+  color: #212122 !important;
+}
+nav {
+  background-color: rgb(246, 251, 255);
+  border: none;
+}
+body {
+  background-color: #fafafa;
+}

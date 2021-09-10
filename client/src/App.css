@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap");
+
+.auth_card {
+  align-items: center;
+  max-width: 60rem;
+  padding: 1.5rem;
+}
+.cardcontainer {
+  margin: 2.75rem auto;
+}
+.mycard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  background: none;
+}
+input {
+  padding: 1.5rem;
+}
+.signupbtn {
+  border: none;
+  padding: 1rem;
+  border-radius: 5px;
+  align-items: center;
+  text-align: center;
+  background-color: #26a69a;
+  cursor: pointer;
+  color: #fff;
+}
+p {
+  margin-right: 0.5rem;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item {
+  width: 31%;
+}
+
+.home-card {
+  max-width: 500px;
+  height: max-content;
+  margin: 26px auto;
+}
+.collection-item {
+  width: 100%;
+}
+.linkto > a > span {
+  color: #26a69a;
+}
+#toast-container {
+  top: 15px !important;
+  right: 20px !important;
+  left: auto !important;
+}
+
+.material-icons:hover {
+  cursor: pointer;
+}
+span {
+  background-color: none;
+}
+.linkto {
+  margin: 0.75rem;
+  display: flex;
+  justify-content: center;
+}
+i {
+  margin: 0.6rem;
+  /* border: 1px solid black; */
+}
+.likescontainer {
+  display: flex;
+  align-items: center;
+}
+.material-icons > i {
+  display: flex;
+  align-items: center;
+}
+.likescontainer > span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.commentusername {
+  font-weight: bolder;
+}
+.deletecontainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.username {
+  margin: 0.5rem;
+  font-weight: bolder;
+}
+.right {
+  margin-right: 0.5rem;
+}
+.logincard {
+  display: flex;
+  margin: 10rem;
+  justify-content: center;
+  flex-direction: column;
+}

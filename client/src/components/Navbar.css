@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 1rem 0 1rem;
+  padding: 0.5rem;
+}
+.logoutbtn {
+  padding: 0.5rem;
+  background-color: rgb(255, 35, 35);
+  border-radius: 20px;
+  cursor: pointer;
+  color: #fff;
+}
+.links {
+  display: flex;
+  justify-content: space-around;
+}
+
+.registerlink,
+.signinlink {
+  margin: 0 0.5rem 0 0.5rem;
+}
